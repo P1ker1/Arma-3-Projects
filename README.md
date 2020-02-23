@@ -1,5 +1,5 @@
 # Arma-3-Projects
-Most of the content (either full or simlified) I've created for Arma 3. Mainly configs
+Most of the content (either full or simplified) I've created for Arma 3. Mainly configs
 
 I've created most of these files during 2019 for our Arma 3 community. 
 
