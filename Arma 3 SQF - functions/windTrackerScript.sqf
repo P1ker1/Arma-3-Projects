@@ -1,11 +1,14 @@
 /*
 	Author: Ari Hietanen
 	
-	Description + information about SQF:
+	Purpose:
+	This script was created to study wind mechanics in modded Arma.
 	
+	Description + information about SQF:
+		
 	This function is a script ran by an event handler --> the parameters are automatically gathered by the EH in this case
 	
-	Function calculates the wind speed every 0.01 seconds at the location of a bullet fired from the gun of the player and writes the wind speed down (row 33)
+	Function calculates the wind speed every 0.01 seconds at the location of a bullet fired from the gun of the player and writes the wind speed down (row 45)
 	At the end the function calculates the average wind speed, the frequency of "no wind" and the altitudes above the ground level.
 
 
